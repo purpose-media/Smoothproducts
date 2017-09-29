@@ -1,0 +1,20 @@
+{
+  "name": "pm-smoothproducts",
+  "homepage": "https://github.com/purpose-media/Smoothproducts",
+  "authors": [
+    "Luke Snowden"
+  ],
+  "description": "smooth",
+  "main": "js/smoothproducts.js",
+  "keywords": [
+    "smooth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
